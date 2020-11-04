@@ -26,3 +26,11 @@
         display: none; 
     }
 }
+
+.Menu {
+    height: 100%;
+}
+
+.Menu img {
+    height: inherit;
+}
